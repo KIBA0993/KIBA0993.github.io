@@ -8,7 +8,6 @@ window.PORTFOLIO = {
   "_readme": "Edit this file to change site content. Or open index.html?edit=1 to toggle things visually, then click 'Copy config' and paste the result back here.",
   "profile": {
     "name": "Simon Chen",
-    "legalName": "Rong Chen",
     "title": "Senior Technical Product Manager",
     "kicker": "Risk & Identity Platform · Morgan Stanley",
     "tagline": "I build AI products, not just roadmaps for them.",
