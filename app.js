@@ -80,7 +80,7 @@
     var tag = esc(p.tagline).replace(/^(I build AI products)/, '<em>$1</em>');
     return '' +
       '<div class="wrap hero" id="top">' +
-        '<div class="hero-kicker">' + esc(p.location) + ' · Available now</div>' +
+        '<div class="hero-kicker">' + esc(p.location) + '</div>' +
         '<h1>' + tag + '</h1>' +
         '<p class="hero-role">' + esc(p.title) + '</p>' +
         '<p class="hero-sub">' + esc(p.kicker) + '</p>' +

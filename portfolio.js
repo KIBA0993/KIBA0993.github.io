@@ -16,7 +16,7 @@ window.PORTFOLIO = {
     "email": "simonchen0993@gmail.com",
     "linkedin": "https://linkedin.com/in/schen93",
     "github": "https://github.com/KIBA0993",
-    "availability": "Open to Senior / Principal PM roles — remote, or hybrid in Atlanta, NYC, Seattle, Bay Area."
+    "availability": ""
   },
   "sections": {
     "hero": {
